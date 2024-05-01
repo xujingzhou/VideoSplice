@@ -9,6 +9,7 @@ Video splice effects. Tested on iPhone 4 and iPhone 5S.
 
 Demo  
 https://www.kuaishou.com/short-video/3xgec6qcdj6q49m  
+https://www.douyin.com/video/7363550229192330511  
 
 创新之作，版权所有！   
 Johnny Xu (徐景周)  
