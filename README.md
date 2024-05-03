@@ -11,6 +11,6 @@ Demo
 https://www.kuaishou.com/short-video/3xgec6qcdj6q49m  
 https://www.kuaishou.com/short-video/3xc3aq6qzvw8mqw    
 
-创新之作，版权所有！   
+Copyright and all rights therein are retained by authors or by other copyright holders.     
 Johnny Xu (徐景周)  
-Future Studio(未来工作室)  
+Future Studio    
